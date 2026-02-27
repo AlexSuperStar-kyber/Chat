@@ -2,7 +2,7 @@
   "server": {
     "port": 5000,
     "env": "production",
-    "jwtSecret": "сгенерируйте-случайную-строку-здесь",
+    "jwtSecret": "kh9IQ8E3Fk1C3unB",
     "debug": false
   },
   "database": {
